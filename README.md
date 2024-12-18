@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A Flutter mobile developer</h3>
 
-- 🔭 I’m currently working on [Weather App](https://github.com/codriot/WeatherApp)
+- 🔭 I’m currently working on [Diet App](https://github.com/codriot/diet_app_mobile)
 
 - 🌱 I’m currently learning **Flutter**
 
